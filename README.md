@@ -1,11 +1,11 @@
 1. Last ned datasett
 Følgende datasett må lastes ned manuelt:
 
-UTKFace Dataset
+UTKFace Dataset https://susanqq.github.io/UTKFace/
 
 Human Images Dataset - Men and Women https://www.kaggle.com/datasets/snmahsa/human-images-dataset-men-and-women/data
 
-Men/Women Classification
+Men/Women Classification https://www.kaggle.com/datasets/playlist/men-women-classification
 
 2. Organiser datasett
 Alle bilder fra datasettene skal til slutt samles i én struktur, der de er sortert i to undermapper: men/ og women/.
